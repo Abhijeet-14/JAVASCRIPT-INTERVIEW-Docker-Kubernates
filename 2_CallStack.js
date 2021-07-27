@@ -7,10 +7,10 @@
 "Callstack: is a STACK"
 
 "In call stack" // GEC: Global EX Cont & E1: Ex-Cont1
-    "[]"
-    "[]"
-    "[E2]"  // E2 is done, POP() it
-    "[E1]"  // E1 is done, POP() it
-    "[GEC]" // GEC will run & pop  when ALL above stack is cleard.
+    "[] -4"
+    "[] -3"
+    "[E2] -2"  // E2 is done, POP() it
+    "[E1] -1"  // E1 is done, POP() it
+    "[GEC] -0" // GEC will run & pop  when ALL above stack is cleard.
 
     "after GEC pop, file run is complete"
