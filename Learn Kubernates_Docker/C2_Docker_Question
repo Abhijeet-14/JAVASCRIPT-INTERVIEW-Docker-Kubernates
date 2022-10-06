@@ -47,3 +47,16 @@
 
 # Docker Repository ?
     - it is the collection of Docker images that are related. 
+
+# EKS
+    - elastic kuberates service
+    - eks - start, run, and scale Kubernetes. 
+
+# ECR
+    - elastic Container registry
+    - ECR, Easily store, share, and deploy your container.
+
+# Scalability and Elasticity:
+    - scalbility - adding resource
+    - Elasticity - increare/decreasing resource dynamically as per traffic
+    

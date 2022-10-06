@@ -9,3 +9,21 @@
 # Docker:
     - docker(open-source) is a containerization platform.
     - it packages up your application with its dependencies, libraries, configuraiton file etc.
+
+# Kubernetes Basic Module:
+    1. create cluster
+    2. deploy an App to cluster
+    3. Explore App
+    4. expose App publicly
+    5. scale App
+    6. update App
+
+# Kubernetes Command
+    - kubectl get pods      :: View pods
+    - kubectl get events    :: View cluster events
+    - kubectl config view   :: View the kubectl configuration
+
+    - kubect -f logs pod-name
+
+
+
